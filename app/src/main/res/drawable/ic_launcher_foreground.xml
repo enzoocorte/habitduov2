@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- A gold glowing aura in background -->
+    <path
+        android:fillColor="#33FDCB6E"
+        android:pathData="M54,54m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0" />
+    <!-- Golden Trophy for Habit Duo -->
+    <!-- Base -->
+    <path
+        android:fillColor="#FDCB6E"
+        android:pathData="M38,78h32v4h-32z M50,66h8v12h-8z" />
+    <!-- Body -->
+    <path
+        android:fillColor="#FDCB6E"
+        android:pathData="M32,32h44v18c0,12 -10,22 -22,22c-12,0 -22,-10 -22,-22z" />
+    <!-- Handles -->
+    <path
+        android:fillColor="#FDCB6E"
+        android:pathData="M26,38c0,-4 3,-7 7,-7h2v4h-2c-2,0 -3,1 -3,3v8c0,2 1,3 3,3h2v4h-2c-4,0 -7,-3 -7,-7z" />
+    <path
+        android:fillColor="#FDCB6E"
+        android:pathData="M82,38c0,-4 -3,-7 -7,-7h-2v4h2c2,0 3,1 3,3v8c0,2 -1,3 -3,3h-2v4h2c4,0 7,-3 7,-7z" />
+    <!-- Star on Trophy representing double success (Habit Duo) -->
+    <path
+        android:fillColor="#6C5CE7"
+        android:pathData="M54,38l3,6l6,1l-4,4l1,6l-6,-3l-6,3l1,-6l-4,-4l6,-1z" />
+</vector>

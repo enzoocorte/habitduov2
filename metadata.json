@@ -1,0 +1,6 @@
+{
+  "name": "Habit Duo",
+  "description": "Una aplicación gamificada para construir buenos hábitos, evitar los malos, ganar XP, desbloquear logros, registrar en el diario y recibir notificaciones de recordatorio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
